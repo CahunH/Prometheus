@@ -1,5 +1,9 @@
 Investigation
+
 Grafana and Prometheus Overview
+
+
+
 Grafana:
 Grafana is an open-source platform used for monitoring and observability. It provides powerful visualization tools to create and share dynamic dashboards. Key features include:
 
@@ -8,6 +12,8 @@ Alerting: Set up alerts to be notified about performance issues.
 Data Source Flexibility: Supports a wide range of data sources like Prometheus, Graphite, InfluxDB, Elasticsearch, and more.
 Plugin Ecosystem: Extend functionality through plugins.
 Team Collaboration: Share dashboards and collaborate with team members.
+
+
 Prometheus:
 Prometheus is an open-source monitoring and alerting toolkit, particularly known for its powerful time-series database. Key features include:
 
