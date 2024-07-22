@@ -1,5 +1,3 @@
-Investigation
-
 Grafana and Prometheus Overview
 
 
